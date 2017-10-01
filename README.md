@@ -1,7 +1,7 @@
 # catgur-server
 
 - server ip: 138.68.252.41
--nport: 22
+- port: 22
 - url of hosted app: http://webdev.coffee/
 
 ## Summary of software installed and configuration changes made.
